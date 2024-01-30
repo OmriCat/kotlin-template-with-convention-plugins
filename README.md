@@ -2,7 +2,7 @@
 
 ##### To change:
 
-[]: project name
-[]: package
-[]: git remote
+- [ ] project name
+- [ ] package
+- [ ] git remote
 
